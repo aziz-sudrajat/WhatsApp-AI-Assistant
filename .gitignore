@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Secrets and local configuration (NEVER commit these)
+.env
+.env.local
+
+# Runtime data: WhatsApp session, logs, drafts, state, local config
+data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Python bytecode (demo GIF generator)
+__pycache__/

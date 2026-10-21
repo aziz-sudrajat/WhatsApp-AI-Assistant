@@ -1,0 +1,1 @@
+{"aiModel":null,"aiProvider":"openai","allowlist":[],"blocklist":[],"chatModes":{},"defaultMode":"draft","draftPollMs":5000,"historyLimit":20,"maxRepliesPerMin":5,"mentionOnly":false,"privateOnly":false,"systemPrompt":"You are a helpful personal assistant replying on WhatsApp. Keep replies short, natural, and helpful.","takeoverCooldownMin":30,"typingDelayMs":1500}
